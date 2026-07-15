@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  background-color: #f3f4f6; /* A slight gray background like in the image */
+  color: #1f2937;
+}
+
+/* Base tailwind layers are handled by the import */
